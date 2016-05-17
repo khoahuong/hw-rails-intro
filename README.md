@@ -347,4 +347,4 @@ contents.
 
 **Please be careful** to use **http** and not **https**, that is, 
 submit `http://your-app.herokuapp.com` **and NOT**
-`https://your-app.herokuapp.com`. 
+`https://your-app.herokuapp.com`.
